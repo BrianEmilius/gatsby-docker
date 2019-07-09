@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-docker",
+  "version": "0.0.0",
+  "description": "A starter template for Gatsby running with Docker.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BrianEmilius/gatsby-docker.git"
+  },
+  "keywords": [
+    "gatsby",
+    "docker",
+    "template"
+  ],
+  "author": "Brian Emilius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianEmilius/gatsby-docker/issues"
+  },
+  "homepage": "https://github.com/BrianEmilius/gatsby-docker#readme"
+}
